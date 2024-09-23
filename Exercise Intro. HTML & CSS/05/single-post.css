@@ -1,0 +1,6 @@
+.post-comments {
+    background: rgba(245, 231, 241, 0.689);
+}
+.post-comments article:nth-of-type(2) {
+    color: aquamarine;
+}

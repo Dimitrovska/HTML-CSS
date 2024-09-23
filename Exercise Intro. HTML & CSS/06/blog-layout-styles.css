@@ -1,0 +1,11 @@
+aside nav,
+aside nav a {
+    background: rgba(251, 251, 165, 0.509);
+    color: rgb(230, 30, 133);
+}
+
+nav,
+nav a {
+    background: rgba(249, 186, 165, 0.571);
+    color: rgba(220, 19, 176, 0.804);
+}
